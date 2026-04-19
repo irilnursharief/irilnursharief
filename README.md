@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hi, I'm Nur Sharief
+======================
 
-<!--
-**irilnursharief/irilnursharief** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Backend Developer | Django Specialist**\
+🚀 Building scalable, production-ready web applications\
+📍 Philippines
 
-Here are some ideas to get you started:
+* * * * *
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Professional Summary
+-----------------------
+
+Backend-focused developer specializing in **Django and REST APIs**, with hands-on experience building real-world systems. I focus on writing clean, maintainable code and deploying applications with production best practices in mind.
+
+I'm actively developing projects that solve practical problems while improving performance, reliability, and scalability.
+
+* * * * *
+
+
+⚡ Developer Mindset
+-------------------
+
+I focus on building systems that are not just functional---but **reliable, maintainable, and ready for real users**.
