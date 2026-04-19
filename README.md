@@ -45,3 +45,13 @@
 <img src="https://streak-stats.demolab.com?user=irilnursharief&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F0883E&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3" />
 
 </div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=irilnursharief&bg_color=0d1117&color=58a6ff&line=58a6ff&point=79c0ff&area=true&area_color=1f3358&hide_border=true&title_color=58a6ff" />
+
+</div>
