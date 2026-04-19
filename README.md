@@ -1,10 +1,19 @@
-👋 Hi, I'm Nur Sharief
-======================
+<div align="center">
 
-![Backend Developer](https://img.shields.io/badge/Backend%20Developer-0d1117?style=flat-square&labelColor=0d1117&color=1f6feb&logoColor=white)
-![Django Specialist](https://img.shields.io/badge/Django%20Specialist-0d1117?style=flat-square&labelColor=0d1117&color=1f6feb&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=👋+Hi!;I'm+Nur+Sharief;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-🚀 Building scalable, production-ready web applications &nbsp;·&nbsp; 📍 Philippines
+</div>
+
+![Backend Developer](https://img.shields.io/badge/Backend%20Developer-0d1117?style=flat-square&labelColor=0d1117&color=1f6feb)
+![Django Specialist](https://img.shields.io/badge/Django%20Specialist-0d1117?style=flat-square&labelColor=0d1117&color=1f6feb)
+
+🚀 Building scalable, production-ready web applications · 📍 Philippines
+
+---
+
+🧑‍💻 I'm a backend developer focused on building clean, production-ready APIs with Django. I care about writing code that's easy to maintain, test, and scale.
+
+🌱 Currently leveling up in **system design**, **containerization with Docker**, and **cloud deployment workflows**.
 
 ---
 
@@ -19,16 +28,6 @@
 ![HTML](https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-
----
-
-## 🧠 Core Strengths
-
-- 🔧 Backend development with **Django & Django REST Framework**
-- 🧩 Designing clean and scalable **RESTful APIs**
-- ⚙️ Understanding of **production workflows (CI/CD, deployment, environments)**
-- 🗄️ Database design and query optimization
-- 🧼 Writing maintainable, readable, and testable code
 
 ---
 
